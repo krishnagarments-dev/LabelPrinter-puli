@@ -1,1 +1,1 @@
-# LabelPrinter-puli
+# Victor The Label Printer - Configured for Puliparakunnu
